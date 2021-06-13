@@ -3,7 +3,6 @@ package uh.ac.cr;
 
 import uh.ac.cr.shape.ShapePrinter;
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Main {
